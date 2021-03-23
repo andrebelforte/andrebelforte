@@ -1,3 +1,5 @@
+[![Linkedin Badge](https://img.shields.io/badge/-Andr%C3%A9%20Belforte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipebelforte/)](https://www.linkedin.com/in/felipebelforte/)
+
 <h3>In search of creating solutions with "tools" (programming languages).</h3>
 
 - 👋 Hi, I’m @andrebelforte
