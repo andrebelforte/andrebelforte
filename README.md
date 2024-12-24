@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Andr%C3%A9%20Belforte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipebelforte/)](https://www.linkedin.com/in/felipebelforte/)
+[![Linkedin Badge](https://img.shields.io/badge/-Andr%C3%A9%20Belforte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipebelforte/)](https://www.linkedin.com/in/andrebelforte/)
 
 <h3>In search of creating solutions with "tools" (programming languages).</h3>
 
